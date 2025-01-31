@@ -1,0 +1,7 @@
+tkinter
+requests
+pywin32
+shapely
+pythoncom
+webbrowser
+pyproj
