@@ -37,3 +37,5 @@ Po uruchomieniu aplikacji użytkownik wpisuje współrzędne lokalizacji (np. 56
 Projekt został wykonany w ramach zajęć "Automatyzacja w Technikach CAD" na Akademii Górniczo-Hutniczej w Krakowie, IGP II. Zajęcia prowadził dr inż. Rafał Kocierz. 
 
 Celem projektu było zautomatyzowanie procesu rysowania działek i gmin w AutoCAD, co pozwoliło na poznanie możliwości integracji różnych narzędzi CAD z danymi przestrzennymi oraz naukę pracy z biblioteką Tkinter w tworzeniu interfejsów graficznych. Dzięki wykonaniu tego projektu udało się osiągnąć pełną funkcjonalność pobierania danych z systemów zewnętrznych i ich wizualizacji, co stanowi cenne doświadczenie w kontekście rozwoju oprogramowania wspomagającego procesy inżynierskie.
+
+Wykonał: Jakub Wilk
