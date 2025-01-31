@@ -26,6 +26,7 @@ Aby uruchomić projekt, potrzebne są pakiety zawarte w pliku `requirements.txt`
 ## Przykład działania
 
 Po uruchomieniu aplikacji użytkownik wpisuje współrzędne lokalizacji (np. 565186.44,244004.32), a aplikacja:
+![Zdjęcie aplikacja](zdjecie0.png)
 
 1. Pobiera dane działki i gminy z systemu GUGiK.
 2. Rysuje działkę i gminę w AutoCAD na podstawie tych danych. ![Zdjęcie AutoCAD](zdjecie1.png)
